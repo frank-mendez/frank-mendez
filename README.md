@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on works to design, test, and implement various software applications
 - 📫 How to reach me frankmendezresources@gmail.com
 
-  <h3> 🛠 Tech Stack </h3>
+  <h4> 🛠 Tech Stack </h4>
 
 - 💻 &nbsp; JavaScript | TypeScript | Golang
 - 🌐 &nbsp; Reactjs | Nextjs | Nestjs | React Query
