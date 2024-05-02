@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frank-mendez
   <h4> 🛠 Tech Stack </h4>
 - 💻 &nbsp; NodeJS | TypeScript | Golang
-- 🌐 &nbsp; Reactjs | Nextjs | Nestjs | React Query
+- 🌐 &nbsp; Reactjs | Nextjs | Nestjs |
 - 💈 &nbsp; TailwindCSS | ChakraUI | Material UI | Ant Design
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 - 🖥 &nbsp; Figma | Photoshop | InDesign
