@@ -2,8 +2,8 @@
   <h4> 🛠 Tech Stack </h4>
 - 💻 &nbsp; NodeJS | TypeScript | Golang
 - 🌐 &nbsp; Reactjs | Nextjs | Nestjs |
-- 💈 &nbsp; TailwindCSS | ChakraUI | Material UI | Ant Design
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
+- 💈 &nbsp; TailwindCSS | ChakraUI | Material UI | Ant Design | Daisy UI
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | TypeORM | MikroORM
 - 🖥 &nbsp; Figma | Photoshop | InDesign
 - :cloud: &nbsp; AWS | Azure | Vercel
 - :octocat: &nbsp; Docker | Github Actions | K8s
