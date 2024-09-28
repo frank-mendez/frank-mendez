@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frank-mendez
+- 👋 Hi, I’m @frank-mendez, a Senior Frontend Developer with a decade of experience in the tech industry. Throughout my career, I've worked with various technologies and frameworks and have contributed to open source projects.
   <h4> 🛠 Tech Stack </h4>
 - 💻 &nbsp; NodeJS | TypeScript | Golang
 - 🌐 &nbsp; Reactjs | Nextjs | Nestjs |
