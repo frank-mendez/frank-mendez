@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frank-mendez, a Senior Frontend Developer with 11 years of experience in the tech industry. Over the years, I’ve worked with a variety of technologies and frameworks while also contributing to open-source projects. Currently, I’m diving into Python and Machine Learning as I prepare for a career in prompt engineering.
+- 👋 Hi, I’m @frank-mendez, a Senior Frontend Engineer with 11 years of experience in the tech industry. Over the years, I’ve worked with a variety of technologies and frameworks while also contributing to open-source projects. Currently, I’m diving into Python and Machine Learning as I prepare for a career in prompt engineering.
   <h4> 🛠 Tech Stack </h4>
 - 🤖 &nbsp; Machine Learning | Deep Learning
 - 💻 &nbsp; NodeJS | TypeScript | Golang | Python
