@@ -27,7 +27,7 @@ Currently, I’m expanding my expertise in **Python, Machine Learning, and AI sy
 ---
 
 ## 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/frank-mendez/)  
+- [LinkedIn](https://www.linkedin.com/in/frank-mendez-47b62090/)  
 - [GitHub](https://github.com/frank-mendez)  
 
 ---
