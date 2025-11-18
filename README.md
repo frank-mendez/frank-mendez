@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Frank Mendez  
 
-🚀 **Senior Frontend Engineer | AI Systems Engineer**  
+🚀 **Senior Frontend Engineer | NextJS | Typescript**  
 With over 11 years of experience building scalable, user-focused applications, I turn complex challenges into simple, elegant solutions. I’ve worked across diverse tech stacks, contributed to open-source projects, and led teams in delivering impactful digital products.
 
 My core expertise lies in full-stack development with Node.js, React, Next.js, and Supabase. I’m currently expanding my skill set in Python, Machine Learning, and AI systems engineering, bridging my strong frontend foundation with next-generation intelligent applications.
