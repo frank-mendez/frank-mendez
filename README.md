@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Frank Mendez  
 
 🚀 **Software Engineer | NextJS | Typescript | Supabase**  
-With over 11 years of experience building scalable, user-focused applications, I turn complex challenges into simple, elegant solutions. I’ve worked across diverse tech stacks, contributed to open-source projects, and led teams in delivering impactful digital products.
+Senior Software Engineer with over 11 years of experience building scalable, production-grade systems that balance user experience, performance, and maintainability. I approach problems from an engineering perspective focusing on architecture, trade-offs, and long-term impact rather than just shipping features.
 
-My core expertise lies in full-stack development with Node.js, React, Next.js, and Supabase. I’m currently expanding my skill set in Python, Machine Learning, and AI systems engineering, bridging my strong frontend foundation with next-generation intelligent applications.
+My work spans full-stack system design, open-source contributions, and technical leadership, delivering reliable digital products across diverse environments. I have strong hands-on experience with Node.js, React, Next.js, and Supabase, backed by a frontend foundation that informs pragmatic backend and system decisions.
 
 ---
 
