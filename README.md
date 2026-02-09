@@ -22,8 +22,7 @@ My work spans full-stack system design, open-source contributions, and technical
 ---
 
 ## 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/frank-mendez-47b62090/)  
-- [GitHub](https://github.com/frank-mendez)  
+- [LinkedIn](https://www.linkedin.com/in/frank-mendez-47b62090/)
 
 ---
 💡 *Looking to combine my frontend expertise with AI to help shape the future of intelligent software systems.*
