@@ -8,20 +8,15 @@ My work spans full-stack system design, open-source contributions, and technical
 ---
 
 ## 🛠 Tech Stack  
-
-- 🤖 **AI/ML:** Machine Learning • Deep Learning  
-- 💻 **Programming:** Node.js • TypeScript • Golang • Python  
-- 🌐 **Frontend & Mobile:** React.js • Next.js • React Native • NestJS  
-- 🎨 **UI/UX:** TailwindCSS • ChakraUI • Material UI • Ant Design • DaisyUI  
-- 🛢 **Databases:** MySQL • PostgreSQL • MongoDB • ORM  
-- 🖥 **Design Tools:** Figma • Photoshop • InDesign  
+- 💻 **Programming:** Node.js • TypeScript • Python • NestJS
+- 🌐 **Frontend & Mobile:** React.js • Next.js • React Native • TanStack Start
+- 🎨 **UI/UX:** TailwindCSS • ChakraUI • Material UI • Ant Design • DaisyUI 
+- 🛢 **Databases:** MySQL • PostgreSQL • MongoDB • ORM  • GraphQL
 - ☁️ **Cloud & DevOps:** AWS • Azure • Vercel • Docker • GitHub Actions • Kubernetes  
 
 ---
 
 ## 📌 What I’m Working On  
-- 🔬 Diving deep into **Machine Learning & AI systems engineering**  
-- 🏗 Building real-world **AI-powered projects** that integrate with scalable web platforms  
 - 📖 Sharing my learning journey through open-source and side projects  
 
 ---
