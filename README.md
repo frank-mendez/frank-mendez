@@ -1,33 +1,75 @@
-# 👋 Hi, I’m Frank Mendez  
+# 👋 Hi, I’m Frank Mendez
 
-🚀 **Software Engineer **  
-Software Engineer with over 11 years of experience building scalable, production-grade systems that balance user experience, performance, and maintainability. I approach problems from an engineering perspective focusing on architecture, trade-offs, and long-term impact rather than just shipping features.
+🚀 **Senior Software Engineer | Aspiring Tech Lead**
 
-My work spans full-stack system design, open-source contributions, and technical leadership, delivering reliable digital products across diverse environments. I have strong hands-on experience with Node.js, React, Next.js, and Supabase, backed by a frontend foundation that informs pragmatic backend and system decisions.
+Software Engineer with **11+ years of experience designing and building scalable production systems** across web and cloud platforms.
 
----
+My work focuses on **system architecture, engineering leadership, and long-term maintainability**. I enjoy solving complex technical problems, guiding engineering decisions, and designing systems that scale while keeping developer experience and product impact in mind.
 
-## 🛠 Tech Stack  
-- 💻 **Programming:** Node.js • TypeScript • Python • NestJS
-- 🌐 **Frontend & Mobile:** React.js • Next.js • React Native • TanStack Start
-- 🎨 **UI/UX:** TailwindCSS • ChakraUI • Material UI • Ant Design • DaisyUI 
-- 🛢 **Databases:** MySQL • PostgreSQL • MongoDB • ORM  • GraphQL
-- ☁️ **Cloud & DevOps:** AWS • Azure • Vercel • Docker • GitHub Actions • Kubernetes  
+With a strong **frontend foundation**, I bring a unique perspective to **full-stack architecture**, ensuring systems balance **performance, usability, and clean engineering design**.
+
+I have hands-on experience building and scaling applications using **Node.js, React, Next.js, and modern cloud infrastructure**, and I actively explore **AI-driven systems, automation, and distributed architectures**.
 
 ---
 
-## 📌 What I’m Working On  
-- 📖 Sharing my learning journey through open-source and side projects  
+# 🧠 Engineering Focus
+
+I enjoy working on problems involving:
+
+- **System architecture & scalable application design**
+- **Developer experience and maintainable codebases**
+- **Full-stack systems bridging frontend and backend architecture**
+- **AI-powered applications and automation workflows**
+- **Engineering best practices, testing, and CI/CD pipelines**
 
 ---
 
-## 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/frank-mendez-47b62090/)
+# 🛠 Tech Stack
+
+### 💻 Languages & Backend
+Node.js • TypeScript • Python • NestJS
+
+### 🌐 Frontend
+React.js • Next.js • React Native • TanStack Start
+
+### 🎨 UI Systems
+TailwindCSS • ChakraUI • Material UI • Ant Design • DaisyUI
+
+### 🛢 Data & APIs
+PostgreSQL • MySQL • MongoDB • GraphQL • ORMs
+
+### ☁️ Cloud & DevOps
+AWS • Azure • Vercel • Docker • Kubernetes • GitHub Actions
 
 ---
-💡 *Looking to combine my frontend expertise with AI to help shape the future of intelligent software systems.*
 
-<!---
-frank-mendez/frank-mendez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🏗 Engineering Interests
+
+Currently exploring and building systems around:
+
+- **AI-powered software platforms**
+- **multi-agent automation workflows**
+- **scalable SaaS architectures**
+- **developer tools and system design experimentation**
+
+---
+
+# 📖 Open Source & Projects
+
+I use my GitHub as a space to experiment with:
+
+- **system architecture patterns**
+- **AI-driven applications**
+- **developer productivity tools**
+- **modern web platform engineering**
+
+---
+
+# 📫 Let’s Connect
+
+- LinkedIn  
+  https://www.linkedin.com/in/frank-mendez-47b62090/
+
+---
+
+💡 *I’m particularly interested in opportunities where I can contribute to **system architecture, technical leadership, and building intelligent software platforms**.*
